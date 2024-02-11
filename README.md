@@ -4,4 +4,4 @@ Welcome to my repository showcasing a variety of Python-based data analytics pro
 ### Projects
 #### Project 1
 
-An international air service provider is expanding into the North American aviation market. The company's primary business objective is to maximize profitability while maintaining punctuality as a core aspect of its brand identity. The overarching goal of this project is to utilize data from over 1 million flights to recommend the most profitable routes using various analytical techniques.
+An international air service provider is expanding into North American aviation market. The company's primary business objective is to maximize profitability while maintaining punctuality as a core aspect of its brand identity. The overarching goal of this project is to utilize data from over 1 million flights to recommend the most profitable routes using various analytical techniques.
